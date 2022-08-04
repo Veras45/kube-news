@@ -15,3 +15,6 @@ apos isso sua aplicacao ja vai esta no ar!
 
 
 OBS: Necessario ter a image no seu DockerHub... 
+
+
+OBS: CI-CD apresentando falha pois  deletei o cluster K8S devido a custos. 
